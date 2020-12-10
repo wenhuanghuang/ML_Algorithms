@@ -1,4 +1,4 @@
-Implementation of Logistic Regression and Perceptron Algorithmn with Python 
+## Implementation of Logistic Regression and Perceptron Algorithmn with Python 
 
 The task is to classify hand-written digits from 0 to 9(MNIST DATASET) More info can be found in http://yann.lecun.com/exdb/mnist/
 
